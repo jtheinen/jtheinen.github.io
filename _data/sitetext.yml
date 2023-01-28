@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Jan Heinen
-    text: Freelance Engineering
+    text: Engineering
     button: Contact
     buttonlink: "#contact"
 
